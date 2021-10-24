@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there! 👋
 
 <!--
 **flabarque/flabarque** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,40 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Facundo Martín Labarque - [Data Scientist / Game Developer] 
+
+### Data Scientist / Game Developer. Graduated in Biological Sciences, working as Professor and Researcher. Python and Java programmer. Using statistics and coding to understand the World. Fourteen years of experience with scientific research and four years with education in Brazil and abroad. I am interested in data-driven solutions that impact business and society and the ethical implications of machine learning decisions. 
+
+- 📈 I’m currently working in projects to improve my Data Science skills.
+- :video_game: I’m currently working in projects to improve my Gane Developer skills.
+- 📊 I’m looking to collaborate with other Data Scientists and Game developers. 
+
+### Languages and Tools:
+
+<img align="left" alt="Python" width="26px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" />
+
+[<img align="left" alt="Scikit-learn" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" />](https://scikit-learn.org/stable/)
+
+<img align="left" alt="SQLServer" width="26px" src="https://img.icons8.com/color/2x/microsoft-sql-server.png" />
+
+<img align="left" alt="Pandas" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/pandas.svg" />
+
+<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+
+<img align="left" alt="Java" width="20px" src="https://upload.wikimedia.org/wikipedia/fr/thumb/2/2e/Java_Logo.svg/800px-Java_Logo.svg.png" />
+
+<img align="left" alt="Eclipse_IDE" width="120px" src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Eclipse-Luna-Logo.svg" />
+
+
+<br />
+<br />
+
+## Data Science Portfolio
+
+Repository containing portfolio of data science projects completed by me for academic, self learning, and hobby purposes. Coded in Python and presented as Jupyter Notebooks.
+
+Languages: English, Portuguese and Spanish.
+
+- ### Data Visualization and Exploration
+  - [Cars-Dataset---Visualization](https://github.com/flabarque/Cars-Dataset---Visualization/blob/main/GitHub_Cars_Dataset_Visualization.ipynb): Data visualization and exploration of this famous dataset for cars from the 70's and 80's and their associated features.
