@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ### Facundo Martín Labarque - [Data Scientist / Game Developer] 
 
-### Data Scientist / Game Developer. Graduated in Biological Sciences, working as Professor and Researcher. Python and Java programmer. Using statistics and coding to understand the World. Fourteen years of experience with scientific research and four years with education in Brazil and abroad. I am interested in data-driven solutions that impact business and society and the ethical implications of machine learning decisions. 
+### Data Scientist / Game Developer. Ph.D. in Biological Sciences, working as Professor and Researcher. Python and Java programmer. Using statistics and coding to understand the World. Fourteen years of experience with scientific research and four years with education in Brazil and abroad. I am interested in data-driven solutions that impact business and society and the ethical implications of machine learning decisions. 
 
 - 📈 I’m currently working in projects to improve my Data Science skills.
 - :video_game: I’m currently working in projects to improve my Gane Developer skills.
