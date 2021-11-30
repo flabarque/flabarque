@@ -50,4 +50,8 @@ Repository containing portfolio of data science projects completed by me for aca
 Languages: English, Portuguese and Spanish.
 
 - ### Data Visualization and Exploration
-  - [Cars-Dataset---Visualization](https://github.com/flabarque/Cars-Dataset---Visualization/blob/main/GitHub_Cars_Dataset_Visualization.ipynb): Data visualization and exploration of this famous dataset for cars from the 70's and 80's and their associated features.
+  - [Cars-Dataset---Visualization](https://github.com/flabarque/Cars-Dataset---Visualization/blob/main/GitHub_Cars_Dataset_Visualization.ipynb): Data visualization and exploration of a famous dataset for cars from the 70's and 80's and their associated features.
+
+- ### End-to-End Machine Learning Project
+  - [End_to_End_ML_Project](https://github.com/flabarque/End-to-End-ML-Project/blob/main/GitHub_End_to_End_ML_Project.ipynb): End-to-End Machine Leaning Project of the California Housing Prices dataset from the 90's and their associated features, provided on Chapter II in "Hands-On Machine Learning with Scikit-Learn, Keras & TensorFlow (2nd Edition)" by Aurélien Géron.
+
