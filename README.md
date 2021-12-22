@@ -39,6 +39,7 @@ Here are some ideas to get you started:
 
 <img align="left" alt="Eclipse_IDE" width="120px" src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Eclipse-Luna-Logo.svg" />
 
+<img align="left" alt="Git" width="26px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" />
 
 <br />
 <br />
