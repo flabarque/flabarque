@@ -55,3 +55,6 @@ Languages: English, Portuguese and Spanish.
 - ### End-to-End Machine Learning Project
   - [End_to_End_ML_Project](https://github.com/flabarque/End-to-End-ML-Project/blob/main/GitHub_End_to_End_ML_Project.ipynb): End-to-End Machine Leaning Project of the California Housing Prices dataset from the 90's and their associated features, provided on Chapter II in "Hands-On Machine Learning with Scikit-Learn, Keras & TensorFlow (2nd Edition)" by Aurélien Géron (https://github.com/ageron/handson-ml2/blob/master/02_end_to_end_machine_learning_project.ipynb).
 
+- ### Classification
+  - [Classification](https://github.com/flabarque/Classification/blob/main/GitHub_Classification.ipynb): Classification of the MNIST dataset, provided on Chapter III in "Hands-On Machine Learning with Scikit-Learn, Keras & TensorFlow (2nd Edition)" by Aurélien Géron (https://github.com/ageron/handson-ml2/blob/master/03_classification.ipynb).
+
