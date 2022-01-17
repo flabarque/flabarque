@@ -61,3 +61,12 @@ Languages: English, Portuguese and Spanish.
 
 - ### Classification
   - [Classification](https://github.com/flabarque/Classification/blob/main/GitHub_Classification.ipynb): Classification of the MNIST dataset, provided on Chapter III in "Hands-On Machine Learning with Scikit-Learn, Keras & TensorFlow (2nd Edition)" by Aurélien Géron (https://github.com/ageron/handson-ml2/blob/master/03_classification.ipynb). This project focus on using Scikit-learn to split the train and test datasets for a binary and multiclass classifiers, perform measurements of accuracy, precision and recall, and apply the ROC curve and ROC-AUC score. 
+
+## Game Developer Portfolio
+
+Repository containing portfolio of game projects completed by me for self learning and hobby purposes. Coded in Java.
+
+Languages: English, Portuguese and Spanish.
+
+- ### Side-scroller Game
+  - [Flappy_Suri](https://github.com/flabarque/Flappy_Suri): A [FlappyBird](https://en.wikipedia.org/wiki/Flappy_Bird) clone with Suri, Ziggy and Kiki (a.k.a., my cats) as protagonists. This mini game clone was programmed using [Java](https://en.wikipedia.org/wiki/Java_(programming_language)) in [Eclipse IDE](https://www.eclipse.org/ide/). Please, enjoy!  
